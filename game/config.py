@@ -1,0 +1,21 @@
+WIDTH = 800
+HEIGHT = 400
+FPS = 60 
+TITLE = 'Game Python'
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREEN = (70, 185, 0)
+RED = (184, 61, 88)
+BLUE = (78, 137, 193)
+YELLOW = (255, 255, 0)
+GREEN_LIGHT = (61, 174, 87)
+PLAYER_GRAV = 1.2
+
+SPEED = 5
+
+MAX_WALLS = 10
+MAX_COINS = 15
+
+FONT = 'Daydream'
+TEXT_POSY = 20
