@@ -11,7 +11,7 @@ Este proyecto es una versión del clásico juego de Mario implementado en Python
    pip install pygame
    ```
 
-3. **Descarga del Código**: Descarga el código del juego desde el repositorio de GitHub [aquí](link-al-repositorio).
+3. **Descarga del Código**: Descarga el código del juego desde el repositorio de GitHub [aquí]([link-al-repositorio](https://github.com/Pepejsc/Pygame-MarioGame.git)).
 
 4. **Ejecución del Juego**: Abre una terminal o línea de comandos, navega hasta el directorio donde descargaste el código del juego y ejecuta el siguiente comando:
    ```
